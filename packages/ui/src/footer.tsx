@@ -70,6 +70,7 @@ const navigation = {
       href: "https://partners.dub.co/dub",
       target: "_blank",
     },
+    { name: "Program Marketplace", href: "/marketplace" },
   ],
   company: [
     { name: "About", href: "/about" },
